@@ -17,7 +17,7 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
 # fonts & headers
-# card_font = pygame.font.SysFont('cochin.ttc', 32, bold = True)
+# card_font = pygame.font.SysFont('cochin.ttc', 32)
 past_header = pygame.image.load('images/past.png')
 pastH_scaled = pygame.transform.scale(past_header, (150, 50))
 present_header = pygame.image.load('images/present.png')
@@ -57,7 +57,6 @@ pygame.display.update()
 # game loop
 while True:
         
-    #event = pygame.event.wait()
     pos = pygame.mouse.get_pos()
 
     for event in pygame.event.get():
