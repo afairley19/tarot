@@ -15,9 +15,9 @@ Yoav Ben-Dov - [www.cbdtarot.com](www.cbdtarot.com).
 
 Card illustrations & loose paraphrasing of interpretations: \
 Title: CBD Tarot de Marseille \
-Author: Dr. Yoav Ben-Dov \ 
-Date: Accessed June 2020 \ 
-Creative Commons by-nc-sa 3.0 license \ 
+Author: Dr. Yoav Ben-Dov \
+Date: Accessed June 2020 \
+Creative Commons by-nc-sa 3.0 license \
 Website: www.cbdtarot.com  
 
 In action: 
