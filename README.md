@@ -21,4 +21,4 @@ Creative Commons by-nc-sa 3.0 license
 Website: www.cbdtarot.com
 
 In action:
-![Tarot Screen Shot](https://raw.github.com/afairley19/tarot/images/tarot_screenshot.png)
+![Tarot Screen Shot](tarot_screenshot.png)
