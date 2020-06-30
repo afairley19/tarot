@@ -1,5 +1,5 @@
 # Tarot Card Reading
-## Tarot card reading app - made with Python/Pygame.
+## Tarot Card Reading App - Python / Pygame
 
 Description: \
 This game performs a tarot card reading by drawing a card for past, present, and future. 
